@@ -12,7 +12,7 @@
 
 	- Con Free Pascal Compiler y Geany en Windows.
 
-	- Presionar "Compilar".
+	- Presionar "Compilar" en Geany.
 
 
 * Uso:
